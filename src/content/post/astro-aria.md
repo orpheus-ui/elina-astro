@@ -1,8 +1,7 @@
 ---
-layout: ../../layouts/post.astro
 title: Aria - a minimalist Astro homepage template
 description: Aria is a template for Astro
-dateFormatted: Jun 6, 2024
+dateFormatted: January 1, 2025
 ---
 
 [![GitHub](https://github.html.zone/ccbikai/astro-aria)](https://github.com/ccbikai/astro-aria)

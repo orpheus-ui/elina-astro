@@ -1,7 +1,10 @@
 ---
+import { getCollection } from 'astro:content';
 import PageHeading from "../components/page-heading.astro";
 import PostsLoop from "../components/posts-loop.astro";
 import Layout from "../layouts/main.astro";
+// Get all blog posts
+const blogPosts = await getCollection('post');
 ---
 
 <Layout title="My Writing">

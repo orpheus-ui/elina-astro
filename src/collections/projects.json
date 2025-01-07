@@ -1,15 +1,15 @@
 [
 	{
-		"name": "UNITY - Electronic Era (UI/UX)",
+		"name": "UNITY - Electronic Era",
 		"description": "AVA Music Group",
-		"image": "https://avamusicgroup.com/cdn/shop/files/1_96ebb890-4b2b-4cb3-b12d-505518940510.png?v=1726242642&width=990",
-		"url": "https://tempmail.best"
+		"image": "/assets/images/projects/Unity.png",
+		"url": "https://avamusicgroup.com/products/unity-electronic-era"
 	},
 	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
-		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
+		"name": "Kick Designer",
+		"description": "AVA Music Group",
+		"image": "/assets/images/projects/kick-designer.png",
+		"url": "https://avamusicgroup.com"
 	},
 	{
 		"name": "HTML.ZONE",

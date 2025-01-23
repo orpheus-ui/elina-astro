@@ -1,7 +1,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/elinixay/public_html
-    - /nodejs/bin/npm install
-    - /nodejs/bin/npm run build
     - /bin/rm -rf $DEPLOYPATH/*
     - /bin/cp -r dist/* $DEPLOYPATH

@@ -1,10 +1,10 @@
 deployment:
   tasks:
     - install_dependencies:
-        command: ~/nodejs/bin/npm install
+        command: npm install
         cwd: .
     - build_project:
-        command: ~/nodejs/bin/npm run build
+        command: npm run build
         cwd: .
     - deploy_files:
         command: cp -r dist/* ~/public_html

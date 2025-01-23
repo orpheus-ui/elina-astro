@@ -1,8 +1,11 @@
 deployment:
   tasks:
     - install_dependencies:
-        command: npm install
+        command: /opt/cpanel/ea-nodejs16/bin/npm install
+        cwd: .
     - build_project:
-        command: npm run build
+        command: /opt/cpanel/ea-nodejs16/bin/npm run build
+        cwd: .
     - deploy_files:
         command: cp -r dist/* ~/public_html
+        cwd: .

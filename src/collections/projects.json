@@ -1,38 +1,38 @@
 [
 	{
-		"name": "UNITY - Electronic Era",
-		"description": "AVA Music Group",
-		"image": "/assets/images/projects/Unity.png",
-		"url": "https://avamusicgroup.com/products/unity-electronic-era"
+		"name": "Draco Gold, Telegram Mini App",
+		"description": "This UI blends the magic of fantasy with the excitement of earning crypto rewards",
+		"image": "/assets/images/projects/dracogold.png",
+		"url": "https://dribbble.com/shots/25144403-Draco-Gold-Telegram-Mini-App"
 	},
 	{
-		"name": "Kick Designer",
-		"description": "AVA Music Group",
-		"image": "/assets/images/projects/kick-designer.png",
-		"url": "https://avamusicgroup.com"
+		"name": "Food Delivery Application",
+		"description": "UI Concept for Food Delivery Application",
+		"image": "/assets/images/projects/food-delivery.png",
+		"url": "https://dribbble.com/shots/25071600-Food-Delivery-Application-For-Mobile"
 	},
 	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
-		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
+		"name": "Escape Room Landing",
+		"description": "Landing Page UI Concept for Escape Room",
+		"image": "/assets/images/projects/escape-room.png",
+		"url": "https://dribbble.com/shots/25003799-Escape-Room-landing-page"
 	},
 	{
-		"name": "Sink",
-		"description": "A Simple / Speedy / Secure Link Shortener with Analytics.",
-		"image": "/assets/images/projects/sink.cool.png",
-		"url": "https://sink.cool"
+		"name": "Fashion AI App Design - ModaMind",
+		"description": "Concept Design for Fashion AI App.",
+		"image": "/assets/images/projects/fashion-ai-app.png",
+		"url": "https://dribbble.com/shots/24981449-Fashion-AI-App-Design-ModaMind"
 	},
 	{
-		"name": "BroadcastChannel",
-		"description": "Turn your Telegram Channel into a MicroBlog.",
-		"image": "/assets/images/projects/broadcast-channel.png",
-		"url": "https://github.com/ccbikai/BroadcastChannel"
+		"name": "Coffee shop Landing",
+		"description": "Concept Design for Coffee Shop Landing Page.",
+		"image": "/assets/images/projects/coffee-shop.png",
+		"url": "https://dribbble.com/shots/20450727-Coffee-shop-website-design"
 	},
 	{
-		"name": "L(O*62).ONG",
-		"description": "Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger",
-		"image": "/assets/images/projects/long.png",
-		"url": "https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong"
+		"name": "NFT Market website",
+		"description": "Another NFT Landing Concept...",
+		"image": "/assets/images/projects/nft-market.png",
+		"url": "https://dribbble.com/shots/25055943-NFT-Market-website-Landing-Page"
 	}
 ]

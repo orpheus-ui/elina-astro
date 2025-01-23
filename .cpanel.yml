@@ -1,8 +1,7 @@
 deployment:
   tasks:
-    - install_dependencies: npm install
-    - build_project: npm run build
-    - deploy_files:
-        command: |
-          rm -rf /home/elinixay/public_html/*
-          cp -r dist/* /home/elinixay/public_html
+    - export DEPLOYPATH=/home/elinixay/public_html
+    - /nodejs/bin/npm install
+    - /nodejs/bin/npm run build
+    - /bin/rm -rf $DEPLOYPATH/*
+    - /bin/cp -r dist/* $DEPLOYPATH

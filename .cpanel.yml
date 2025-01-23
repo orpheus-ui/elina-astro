@@ -1,11 +1,8 @@
 deployment:
   tasks:
-    - install_dependencies:
-        command: npm install
-        cwd: .
-    - build_project:
-        command: npm run build
-        cwd: .
+    - install_dependencies: npm install
+    - build_project: npm run build
     - deploy_files:
-        command: cp -r dist/* ~/public_html
-        cwd: .
+        command: |
+          rm -rf ~/public_html/*
+          cp -r dist/* ~/public_html
